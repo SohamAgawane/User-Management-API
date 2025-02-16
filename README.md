@@ -19,6 +19,7 @@ This is a **RESTful API** built using **Node.js**, **Express.js**, and **MongoDB
 │   ├── index.js       # Request logging middleware
 ├── 📁 routes
 │   ├── user.js        # API routes for users
+├── 📁 views
 ├── connection.js      # MongoDB connection logic
 ├── index.js           # Main entry point of the server
 ├── package.json       # Project dependencies
